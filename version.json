@@ -1,8 +1,8 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/mchorses-mclib/",
     "1.12.2": {
-		"2.4.3": "This update was made by Chryfi with some contributions of other developers. It features some fixes and important features for the other mods.",
-		"2.4.2": "This update was made by Chryfi. It features some fixes and a basic permission system.",
+        "2.4.3": "This update was made by Chryfi with some contributions of other developers. It features some fixes and important features for the other mods.",
+        "2.4.2": "This update was made by Chryfi. It features some fixes and a basic permission system.",
         "2.4.1": "This update was made by Chryfi.",
         "2.4": "This update was made by MiaoNLI.",
         "2.3.7": "This update was made by Chryfi, it adds important utility for Blockbuster 2.4.1 release.",
@@ -34,7 +34,7 @@
         "1.0.3": "A small patch update which is accompanied by Aperture 1.3.2 release.",
         "1.0.2": "A small patch update that features a couple of fixes, and one small feature.",
         "1.0.1": "Second update. Mostly provides new code for Blockbuster, Aperture and Metamorph.",
-    	"1.0": "Initial release. This bad boy contains so much useful code."
+        "1.0": "Initial release. This bad boy contains so much useful code."
     },
     "1.10.2": {
         "1.0.4": "This is a patch update which reworks file tree system, improves texture picker GUI and a couple of other neat features.",
@@ -44,12 +44,17 @@
         "1.0": "Initial release. This bad boy contains so much useful code."
     },
     
+    "1.21.4": {
+        "1.0": "This update supports Minecraft 1.21.4, introducing new features, improvements, and bug fixes. It aims to enhance the mod functionality and compatibility for the latest version."
+    },
+
     "promos": {
         "1.12.2-latest": "2.4.1",
         "1.12.2-recommended": "2.4.1",
         "1.10.2-latest": "1.0.4",
         "1.10.2-recommended": "1.0.4",
         "1.11.2-latest": "1.0.4",
-        "1.11.2-recommended": "1.0.4"
+        "1.11.2-recommended": "1.0.4",
+        "1.21.4-latest": "1.0"
     }
 }
